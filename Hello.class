@@ -1,0 +1,7 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class Hello {
+         public static void main(String[] args) {
+            int num=12;
+             System.out.println("num");
+         }
+}
